@@ -18,8 +18,8 @@ Please ensure all your contributions adheres to the following guidelines.
 
 Make sure your code is complying with the following documents:
 
-- [HTML](https://github.com/battaglr/html-codin-style)
 - [CSS](https://github.com/battaglr/css-codin-style)
+- [HTML](https://github.com/battaglr/html-codin-style)
 - [JavaScript](https://github.com/battaglr/javascript-codin-style)
 - [Markdown](https://github.com/battaglr/markdown-codin-style)
 
