@@ -4,29 +4,20 @@
 
 ```scss
 ////
-// Add `border-box` property to all elements,
-// including pseudo-elements.
+// Description.
 //
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+selector {
+  property: value;
 }
 ```
 
 ## Section comments
 
 ```scss
-// > First level
+// First level
 // ---------------------------------------------------------------- //
 
-// >> Second level
-// ------------------------------------------------------ //
-
-// >>> Third level
+// Second level
 // -------------------------------------------- //
-
-// >>>> Fourth level
-// ---------------------------------- //
 ```
