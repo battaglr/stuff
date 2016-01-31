@@ -1,4 +1,4 @@
-# Comments in Sass
+# Comments
 
 ## Documentation comments
 
