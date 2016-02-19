@@ -1,4 +1,4 @@
-# Box model
+# Box model diagram
 
 An ASCII diagram of the CSS box model.
 
