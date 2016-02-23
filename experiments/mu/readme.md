@@ -1,3 +1,3 @@
 # MU
 
-Just an experiment playing with *Modular UI*.
+Playing with *Modular UI*.
