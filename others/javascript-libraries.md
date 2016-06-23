@@ -44,8 +44,7 @@ Curated list of vanilla JavaScript libraries.
 ## I
 
 - [is.js](https://github.com/arasatasaygin/is.js)
-
-  > General-purpose check library.
+  | *General-purpose check library.*
 
 ## J
 
