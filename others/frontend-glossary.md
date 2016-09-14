@@ -114,6 +114,7 @@ A curated front-end glossary.
 - [Shim](https://en.wikipedia.org/wiki/Shim_(computing))
 - [Side effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 - [Single responsibility principle](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+- [Single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth)
 - [Skeleton programming](https://en.wikipedia.org/wiki/Skeleton_(computer_programming))
 - [SLOC](https://en.wikipedia.org/wiki/Source_lines_of_code)
 - [Smoke testing](https://en.wikipedia.org/wiki/Smoke_testing_(software))
