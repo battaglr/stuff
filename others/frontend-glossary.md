@@ -81,6 +81,7 @@ A curated front-end glossary.
 
 - [Magic number](https://en.wikipedia.org/wiki/Magic_number_(programming))
 - [Memoization](https://en.wikipedia.org/wiki/Memoization)
+- [Metasyntactic variable](https://en.wikipedia.org/wiki/Metasyntactic_variable)
 - [Monolithic application](https://en.wikipedia.org/wiki/Monolithic_application)
 - [MVC](https://en.wikipedia.org/wiki/Model–view–controller)
 
