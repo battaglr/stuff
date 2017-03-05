@@ -43,8 +43,10 @@ Curated list of vanilla JavaScript libraries.
 
 ## I
 
+- [immutable.js](https://github.com/facebook/immutable-js)
+  | *Immutable collections.*
 - [is.js](https://github.com/arasatasaygin/is.js)
-  | *General-purpose check library.*
+  | *General-purpose checks.*
 
 ## J
 
@@ -56,11 +58,13 @@ Curated list of vanilla JavaScript libraries.
 
 ## L
 
-…
+- [lodash](https://github.com/lodash/lodash)
+  | *General-purpose utilities.*
 
 ## M
 
-…
+- [moment.js](https://github.com/moment/moment)
+  | *Parse, validate, manipulate, and display dates.*
 
 ## N
 
@@ -92,7 +96,8 @@ Curated list of vanilla JavaScript libraries.
 
 ## U
 
-…
+- [underscore.js](https://github.com/jashkenas/underscore)
+  | *General-purpose utilities.*
 
 ## V
 
