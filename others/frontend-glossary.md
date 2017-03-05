@@ -75,6 +75,7 @@ A curated front-end glossary.
 - [Lazy loading](https://en.wikipedia.org/wiki/Lazy_loading)
 - [Lint](https://en.wikipedia.org/wiki/Lint_(software))
 - [LOC](https://en.wikipedia.org/wiki/Source_lines_of_code)
+- [Lookup table](https://en.wikipedia.org/wiki/Lookup_table)
 - [Loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
 
 ## M
