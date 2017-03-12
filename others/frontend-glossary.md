@@ -107,6 +107,7 @@ A curated front-end glossary.
 ## R
 
 - [REPL](https://en.wikipedia.org/wiki/Read–eval–print_loop)
+- [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
 - [Run time](https://en.wikipedia.org/wiki/Run_time_(program_lifecycle_phase))
 
 ## S
